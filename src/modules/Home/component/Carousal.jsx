@@ -31,7 +31,7 @@ const Home = () => {
                                 <img src='https://images.unsplash.com/photo-1606914469725-e398d2f1d7ee?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' className="image-entity" />
                                 <div className="slider-item">
                                     <div className='slider-content'>
-                                        <h2>we are creative</h2>
+                                        <h2>Quality</h2>
                                         <p>We understand the importance of maintaining the quality and freshness of our spices during long-distance transport. Kurvin Global Exports invests in robust and quality packaging to ensure that our premium spices reach you in the same exceptional condition in which they left our facilities.</p>
                                         <a href="#" className="slider-btn">see more</a>
                                     </div>
@@ -47,7 +47,7 @@ const Home = () => {
                                 <img src='https://plus.unsplash.com/premium_photo-1669130744503-4939a5bcef43?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' className="image-entity" />
                                 <div className="slider-item">
                                     <div className='slider-content'>
-                                        <h2>we are creative</h2>
+                                        <h2>Shipping</h2>
                                         <p>Our commitment to timely deliveries means you can rely on us to fulfill your orders promptly and efficiently.</p>
                                         <a href="#" className="slider-btn">see more</a>
                                     </div>
