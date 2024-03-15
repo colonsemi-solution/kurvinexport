@@ -5,7 +5,7 @@ const Formtemplate = () => {
         <div>
             <div className="row col-sm-1 w-100 mt-3">
                 <div className="col-md-6 ps-sm-4">
-                <iframe className='w-100 h-100' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d242.26311473861747!2d72.82652728530697!3d21.186712953987794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04e683ea1565f%3A0xcb6edabe57ab9f20!2sKhangad%20St%2C%20Sagrampura%2C%20Surat%2C%20Gujarat%20395008!5e1!3m2!1sen!2sin!4v1709746489199!5m2!1sen!2sin"allowfullscreen="true" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe className='w-100 h-100' title='map' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3719.862396459453!2d72.8348893!3d21.197624599999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04f0051ca3aa1%3A0xf89cf71224772c1!2sDwarkesh%20Villa!5e0!3m2!1sen!2sin!4v1710354183240!5m2!1sen!2sin" style={{border:0}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
                 <div className="col-md-6 d-flex justify-content-center">
                     <div className="contact-form">
