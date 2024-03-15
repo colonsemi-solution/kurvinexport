@@ -8,7 +8,7 @@ import SpicesFooter from './Component/SpicesFooter';
 
 function App() {
   return (
-    <BrowserRouter basename='/spices'>
+    <BrowserRouter basename='/kurvinexport'>
     <SpicesHeader/>
     <Routes>
       <Route exact path='/' element={<Home/>}/>
