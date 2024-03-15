@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kurvinexport/static/css/main.e385350d.css",
-    "main.js": "/kurvinexport/static/js/main.2b89edf8.js",
+    "main.js": "/kurvinexport/static/js/main.8accff3a.js",
     "static/js/453.af4227df.chunk.js": "/kurvinexport/static/js/453.af4227df.chunk.js",
     "static/media/Fenugreek.jpg": "/kurvinexport/static/media/Fenugreek.5473e1291d2a85381f9a.jpg",
     "static/media/mustard.jpg": "/kurvinexport/static/media/mustard.59e41d472bfb6f93e425.jpg",
@@ -11,11 +11,11 @@
     "static/media/Asafoetida.jpg": "/kurvinexport/static/media/Asafoetida.630099220d94eac42b9d.jpg",
     "index.html": "/kurvinexport/index.html",
     "main.e385350d.css.map": "/kurvinexport/static/css/main.e385350d.css.map",
-    "main.2b89edf8.js.map": "/kurvinexport/static/js/main.2b89edf8.js.map",
+    "main.8accff3a.js.map": "/kurvinexport/static/js/main.8accff3a.js.map",
     "453.af4227df.chunk.js.map": "/kurvinexport/static/js/453.af4227df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e385350d.css",
-    "static/js/main.2b89edf8.js"
+    "static/js/main.8accff3a.js"
   ]
 }
