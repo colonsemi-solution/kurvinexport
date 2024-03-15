@@ -2,7 +2,7 @@
   "name": "newreact",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://colonsemi-solution.github.io/",
+  "homepage": "https://colonsemi-solution.github.io/kurvinexport",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
