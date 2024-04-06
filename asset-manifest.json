@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/kurvinexport/static/css/main.ee6023e9.css",
-    "main.js": "/kurvinexport/static/js/main.7d1690ba.js",
+    "main.js": "/kurvinexport/static/js/main.599bb200.js",
     "static/js/453.af4227df.chunk.js": "/kurvinexport/static/js/453.af4227df.chunk.js",
     "static/media/Fenugreek.jpg": "/kurvinexport/static/media/Fenugreek.5473e1291d2a85381f9a.jpg",
     "static/media/mustard.jpg": "/kurvinexport/static/media/mustard.59e41d472bfb6f93e425.jpg",
     "static/media/coriander1.jpg": "/kurvinexport/static/media/coriander1.47bdd85d2e5d41ef5712.jpg",
     "static/media/logo.png": "/kurvinexport/static/media/logo.87e4d095877b18918689.png",
     "static/media/fennel1.jpg": "/kurvinexport/static/media/fennel1.59b5eff1b6a5fd88a467.jpg",
+    "static/media/logo1.png": "/kurvinexport/static/media/logo1.46cfe83c6d62ad42c207.png",
     "static/media/Asafoetida.jpg": "/kurvinexport/static/media/Asafoetida.630099220d94eac42b9d.jpg",
     "index.html": "/kurvinexport/index.html",
     "main.ee6023e9.css.map": "/kurvinexport/static/css/main.ee6023e9.css.map",
-    "main.7d1690ba.js.map": "/kurvinexport/static/js/main.7d1690ba.js.map",
+    "main.599bb200.js.map": "/kurvinexport/static/js/main.599bb200.js.map",
     "453.af4227df.chunk.js.map": "/kurvinexport/static/js/453.af4227df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee6023e9.css",
-    "static/js/main.7d1690ba.js"
+    "static/js/main.599bb200.js"
   ]
 }
